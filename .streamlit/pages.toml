@@ -1,0 +1,161 @@
+[[pages]]
+name = "Aircraft"
+icon = "✈️"
+
+[[pages]]
+name = "Aircrat_carriers"
+icon = "🚁"
+
+[[pages]]
+name = "Ammunitions"
+icon = "🛫"
+
+[[pages]]
+name = "Amphibious_Assault"
+icon = "📡"
+
+[[pages]]
+name = "Anti_Tank_Rifles"
+icon = "✈️"
+
+[[pages]]
+name = "Armed_Personal_Carriers"
+icon = "✈️"
+
+[[pages]]
+name = "artillery"
+icon = "✈️"
+
+[[pages]]
+name = "Assault_Rifles"
+icon = "🚁"
+
+[[pages]]
+name = "Automic_Rifles"
+icon = "🎯"
+
+[[pages]]
+name = "Aviation_subsystems"
+icon = "💣"
+
+[[pages]]
+name = "Battleships"
+icon = "🚀"
+
+[[pages]]
+name = "Bolt_Action_Rifles"
+icon = "🔫"
+
+[[pages]]
+name = "Bomber_Aircraft"
+icon = "🔫"
+
+[[pages]]
+name = "Carbines"
+icon = "🚀"
+
+[[pages]]
+name = "Carrier_Aircraft"
+icon = "🚀"
+
+[[pages]]
+name = "Civilian_Rifles"
+icon = "💣"
+
+[[pages]]
+name = "Destroyers"
+icon = "🌊"
+
+[[pages]]
+name = "Drones"
+icon = "💣"
+
+[[pages]]
+name = "Fighter_Aircraft"
+icon = "🚀"
+
+[[pages]]
+name = "Firearms"
+icon = "🚛"
+
+[[pages]]
+name = "Frigates"
+icon = "🚛"
+
+[[pages]]
+name = "Grenade_Launchers"
+icon = "🎯"
+
+[[pages]]
+name = "Hand_Grenades"
+icon = "🚜"
+
+[[pages]]
+name = "Infantory_Fighting_Vehicles"
+icon = "🚀"
+
+[[pages]]
+name = "Infantory_Weapons"
+icon = "💣"
+
+[[pages]]
+name = "Larger_Caliber_Rifles"
+icon = "💣"
+
+[[pages]]
+name = "Main_Battle_Tank"
+icon = "🛫"
+
+[[pages]]
+name = "Mine_Warfare"
+icon = "🔫"
+
+[[pages]]
+name = "Multiple_Launched_Rocket_System"
+icon = "🔫"
+
+[[pages]]
+name = "Patrol_Craft"
+icon = "🔫"
+
+[[pages]]
+name = "Pistol"
+icon = "🔫"
+
+[[pages]]
+name = "Revolver"
+icon = "🔫"
+
+[[pages]]
+name = "Self_Loading_Rifles"
+icon = "🔫"
+
+[[pages]]
+name = "Shotguns"
+icon = "💣"
+
+[[pages]]
+name = "Special_Arms"
+icon = "💣"
+
+[[pages]]
+name = "Special_Forces_Vehicles"
+icon = "🔫"
+
+[[pages]]
+name = "Standart_Caliber_Rifles"
+icon = "🎯"
+
+[[pages]]
+name = "Submarines"
+icon = "🔫"
+
+[[pages]]
+name = "Vehicle_subsystems"
+icon = "🚀"
+
+[[pages]]
+name = "Vehicles"
+icon = "🔫"
+
+
