@@ -15,6 +15,24 @@ import re
 import matplotlib.pyplot as plt
 import seaborn as sns
 import numpy as np
+import time
+import streamlit as st
+
+def keep_alive():
+    while True:
+        time.sleep(60)  # Send a signal every 60 seconds
+        st.write("Keep-alive signal sent")
+
+keep_alive()
+
+import streamlit as st
+
+try:
+    # Critical code that might cause WebSocket errors
+    st.write("App running smoothly...")
+except Exception as e:
+    st.error(f"An error occurred: {e}")
+
 
 # Database connection details
 DB_HOST = "junction.proxy.rlwy.net"
