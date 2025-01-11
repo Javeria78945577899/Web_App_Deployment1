@@ -3,7 +3,7 @@ name = "Aircraft"
 icon = "✈️"
 
 [[pages]]
-name = "Aircrat_carriers"
+name = "Aircrat_Carriers"
 icon = "🚁"
 
 [[pages]]
@@ -23,7 +23,7 @@ name = "Armed_Personal_Carriers"
 icon = "✈️"
 
 [[pages]]
-name = "artillery"
+name = "Artillery"
 icon = "✈️"
 
 [[pages]]
@@ -35,7 +35,7 @@ name = "Automic_Rifles"
 icon = "🎯"
 
 [[pages]]
-name = "Aviation_subsystems"
+name = "Aviation_Subsystems"
 icon = "💣"
 
 [[pages]]
@@ -103,7 +103,7 @@ name = "Larger_Caliber_Rifles"
 icon = "💣"
 
 [[pages]]
-name = "Main_Battle_Tank"
+name = "Main_Battle_Tank_(MBT)"
 icon = "🛫"
 
 [[pages]]
@@ -151,7 +151,7 @@ name = "Submarines"
 icon = "🔫"
 
 [[pages]]
-name = "Vehicle_subsystems"
+name = "Vehicle_Subsystems"
 icon = "🚀"
 
 [[pages]]
