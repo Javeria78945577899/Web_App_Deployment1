@@ -53,7 +53,7 @@ os.chdir(current_dir)  # Change the current working directory
 
 # Load the .toml configuration
 try:
-    pages_config = toml.load(current_dir / ".streamlit/Pages.toml")
+    pages_config = toml.load(current_dir / ".streamlit/pages.toml")
 except Exception as e:
     st.error(f"Error loading pages.toml: {e}")
     st.stop()
