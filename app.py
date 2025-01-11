@@ -317,7 +317,7 @@ if st.session_state.current_page == "Home":
     image_path = None
     if pd.notnull(current_news["Downloaded_Image_Name"]):
         image_name = current_news["Downloaded_Image_Name"]
-        weapon_category = current_news["Weapon_Category"].replace(" ", "_")  # Use Weapon_Category from the data
+        weapon_category = current_news["Type"].replace(" ", "_")  # Use Weapon_Category from the data
 
         # Construct the folder path (include the subfolder structure)
         category_folder = os.path.join(IMAGE_FOLDER, weapon_category)  # Only use Weapon_Category for folder
@@ -361,8 +361,7 @@ if st.session_state.current_page == "Home":
     
     # Display the news description
     st.write(
-        f"**Here is {current_news['Weapon_Name']}**, developed in **{current_news['Development']}**, "
-        f"having a weight of **{current_news['Weight']}**. Its current status is **{current_news['Status']}**."
+        f"**Here is {current_news['Weapon_Name']}**, developed in **{current_news['Development']}**"
     )
 
     # Navigation buttons for the news
