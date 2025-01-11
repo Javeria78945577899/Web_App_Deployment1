@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import os
 import plotly.express as px
-from sqlalchemy import create_engine
+from sqlalchemy import create_engine 
 import toml
 from fpdf import FPDF
 from pathlib import Path
